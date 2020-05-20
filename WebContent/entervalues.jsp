@@ -19,7 +19,7 @@
         </div>
         <div>
         <label for="inp2">Your Email</label><br><br>
-        <input type="text" id="inp2" placeholder="Enter your email address"><br><br>
+        <input type="text" id="inp2" placeholder="Enter your email address" name="email"><br><br>
         </div>
         <label for="dob">Your Date of Birth</label><br><br>
         <div id="dob">
